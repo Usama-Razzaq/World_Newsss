@@ -1,20 +1,8 @@
 # world_news
 
-A new Flutter project.
+World News is a global news app powered by News API, delivering real-time updates from diverse sources worldwide. Choose your favorite categories and explore top stories in politics, sports, technology, and more. With a sleek UI and customizable options, stay informed effortlessly anytime, anywhere.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![one.jpeg](..%2F..%2FDesktop%2Fone.jpeg)
-![two.jpeg](..%2F..%2FDesktop%2Ftwo.jpeg)
-![three.jpeg](..%2F..%2FDesktop%2Fthree.jpeg)
-![four.jpeg](..%2F..%2FDesktop%2Ffour.jpeg)
+![one](https://github.com/user-attachments/assets/6504d362-8136-46bb-945e-f1dc86df990b)
+![two](https://github.com/user-attachments/assets/dacf9f87-99c2-4db8-a38a-ed7076318ab9)
+![three](https://github.com/user-attachments/assets/65f1dcc4-20a0-4c31-bb9c-84159620ff33)
+![four](https://github.com/user-attachments/assets/957ea177-4952-45bf-b39e-e859fd58119e)
